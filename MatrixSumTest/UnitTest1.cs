@@ -7,9 +7,9 @@ namespace MatrixSumTest
     public class UnitTest1
     {
         [TestMethod]
-        public void is_Matrix_Dimension_True()
+        public void is_Matrix_Row_Sum_True()
         {
-            Console.WriteLine("is_Matrix_Dimension_True test is running.");
+            Console.WriteLine("is Matrix Row Sum True unit test is running.");
             // Arrange
             int row = 10;
             int column = 10;
